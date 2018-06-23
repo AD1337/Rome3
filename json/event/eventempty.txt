@@ -1,0 +1,33 @@
+"
+{
+
+		""Name"":""None"",
+		""Creator"":0,
+		""Target"":0,
+		""Side1"":
+		{
+			""Stats"":
+			{
+				
+			},
+			""Characters"":
+			{
+				
+			}
+
+		},
+		""Side2"":
+		{
+			""Stats"":
+			{
+				
+			},
+			""Characters"":
+			{
+				
+			}
+
+		}
+
+}
+"

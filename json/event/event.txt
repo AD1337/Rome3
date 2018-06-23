@@ -1,0 +1,44 @@
+"
+{
+	""Event1"":
+	{
+		""Name"":""Assassination"",
+		""Creator"":1337,
+		""Target"":1,
+		""Side1"":
+		{
+			""Stats"":
+			{
+				""Martial"":1
+			}
+			""Characters"":
+			{
+				""CharNum"":
+				{
+					""Effort"":0,
+					""Contribution"":0,
+					""Modifier"":0,
+				}
+			}
+
+		}
+		""Side2"":
+		{
+			""Stats"":
+			{
+				""Martial"":1
+			}
+			""Characters"":
+			{
+				""CharNum"":
+				{
+					""Effort"":0,
+					""Contribution"":0,
+					""Modifier"":0,
+				}
+			}
+
+		}
+	}
+}
+"
